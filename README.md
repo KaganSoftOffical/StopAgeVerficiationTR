@@ -1,5 +1,5 @@
 # İnternet Yaş Doğrulaması ve Kimlik Kartı Zorunluluğu
-2 Mayıs 2026 tarihinde yürürlüğe girmesi planlanan "İnternet Yaş Doğrulaması ve Kimlik Kartı Zorunluluğu" düzenlemesine karşı teknik ve vatandaşları etkileyecek hukuki endişelerimi paylaşıyorum:
+2 Mayıs 2026 tarihinde yürürlüğe girmesi planlanan düzenlemeye karşı, bir yazılım geliştiricisi ve vatandaş olarak teknik/hukuki endişelerimi beyan ederim:
 
 1. Veri Gizliliği ve Güvenliği: Milyonlarca vatandaşın kimlik bilgilerinin internete giriş için bir "token" haline getirilmesi, olası siber saldırılarda telafisi imkansız veri sızıntılarına yol açacaktır. Merkezi bir kimlik doğrulama sistemi, siber suçlular için birincil hedef haline gelecektir.
 
